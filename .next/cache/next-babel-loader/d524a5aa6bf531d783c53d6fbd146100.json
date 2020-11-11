@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const two = 'two';","map":{"version":3,"sources":["/Users/ssamwonn/Desktop/git-blog/src/commons/exportTest/main/two.ts"],"names":["two"],"mappings":"AAAA,OAAO,MAAMA,GAAG,GAAG,KAAZ","sourcesContent":["export const two = 'two';\n"]},"metadata":{},"sourceType":"module"}
